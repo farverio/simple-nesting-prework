@@ -130,5 +130,5 @@ def adding_to_dennis
         }
      }
   
-  puts programmer_hash[:dennis_ritchie][:known_for] << "Assembly"
+  puts programmer_hash[:dennis_ritchie][:known_for] = "Assembly"
 end
